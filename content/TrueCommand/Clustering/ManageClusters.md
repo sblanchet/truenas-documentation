@@ -67,7 +67,7 @@ A confirmation box will appear and the deletion must be confirmed before proceed
 After checking the confirm box, Click **OK** to remove the brick.
 
 
-### Deleting a Distrubuted Cluster
+### Deleting a Distributed Cluster
 
 Click the three dots icon in the cluster overview card and select **Delete**. A confirmation box will appear and the deletion must be confirmed before proceeding.
 
