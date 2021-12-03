@@ -24,7 +24,7 @@ In a Distributed Volume the editing options are, adding a brick, replacing a bri
 
 Click the three dots icon in the cluster overview card and select the **+ Add Brick** option to open the *Add Brick* menu.
 
-![DistributedClusterOptionsAdd](/images/TrueCommand/2.0/DistributedClusterOptionsAdd.png "DistributedClusterOptionsAdd")
+![DistributedClusterOptionsAdd](/images/TrueCommand/2.0/DistributedClusterOptionsAdd.png "DistributedClusterOptionsAdd")   
 
 Click *Brick Choices* to display the list of systems available.
 
@@ -67,7 +67,7 @@ A confirmation box will appear and the deletion must be confirmed before proceed
 After checking the confirm box, Click **OK** to remove the brick.
 
 
-### Deleting a Distrubuted Cluster
+### Deleting a Distributed Cluster
 
 Click the three dots icon in the cluster overview card and select **Delete**. A confirmation box will appear and the deletion must be confirmed before proceeding.
 
